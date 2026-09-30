@@ -41,8 +41,8 @@
   <!-- terminal lines -->
   <g>
     <text x="40" y="145" class="l1"><tspan class="prompt">$</tspan> <tspan class="cmd">whoami</tspan></text>
-    <text x="40" y="170" class="l2"><tspan class="hi">&gt;</tspan> <tspan class="out">Azubi Systemintegration · Python · Web · Homelab</tspan></text>
+    <text x="40" y="170" class="l2"><tspan class="hi">&gt;</tspan> <tspan class="out">Azubi Systemintegration · Bauen mit KI · Web</tspan></text>
     <text x="40" y="200" class="l3"><tspan class="prompt">$</tspan> <tspan class="cmd">cat focus.txt</tspan></text>
-    <text x="40" y="225" class="l4"><tspan class="hi">&gt;</tspan> <tspan class="out">Automatisierung · Finanz-Tools · Embedded · Video-Edits</tspan></text>
+    <text x="40" y="225" class="l4"><tspan class="hi">&gt;</tspan> <tspan class="out">Claude · Finanz-Tools · Embedded · Video-Edits</tspan></text>
   </g>
 </svg>

@@ -12,19 +12,20 @@
 
 ```python
 class Snifted:
-    role     = "Azubi Fachinformatiker Systemintegration"
-    languages = ["Deutsch", "English"]
-    loves    = ["Automatisierung", "Homelab", "sauberer Code", "Autos & Motorräder"]
-    learning = ["Python", "Next.js + Supabase", "Arduino / ESP32", "Trading-Backtests"]
+    role        = "Azubi Fachinformatiker Systemintegration"
+    languages   = ["Deutsch", "English"]
+    builds_with = ["Claude", "Claude Code"]
+    loves       = ["KI-Tools", "Autos & Motorräder", "Video-Edits"]
+    learning    = ["Python", "Next.js + Supabase", "Arduino / ESP32", "Trading-Backtests"]
 
     def motto(self):
-        return "Erst verstehen, dann automatisieren."
+        return "Ich baue mit KI und lerne dabei jeden Tag dazu."
 ```
 
-## `> stack`
+## `> tools`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,tailwind,supabase,postgres,linux,docker,arduino,git,github&theme=dark" alt="tech stack">
+    <img src="https://skillicons.dev/icons?i=python,js,nextjs,supabase,arduino,git,github&theme=dark" alt="tools">
 </p>
 
 ## `> projects`

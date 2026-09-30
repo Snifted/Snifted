@@ -22,6 +22,8 @@ class Snifted:
         return "Ich baue mit KI und lerne dabei jeden Tag dazu."
 ```
 
+<img src="./divider.svg" alt="" width="100%">
+
 ## `> tools`
 
 <p>
@@ -40,18 +42,27 @@ class Snifted:
   z. B. [Azubly](https://github.com/Snifted/azubly)
 -->
 
-| Projekt | Beschreibung | Stack |
-| :-- | :-- | :-- |
-| **Azubly** | App für Auszubildende | Next.js · Supabase |
-| **Finanz-Lerndashboard** | Lokales Dashboard mit Themenkarten, Rechnern und Glossar | HTML · JS |
-| **Trading-Backtests** | Strategien entwickeln und testen | Python · Pine Script |
-| **Smarte Alarmanlage** | Berufsschulprojekt mit Sensorik und Benachrichtigung | Arduino · ESP32 |
+<p align="center">
+  <img src="./projects.svg" alt="Projekte" width="100%">
+</p>
+
+<img src="./divider.svg" alt="" width="100%">
 
 ## `> core`
 
 <p align="center">
   <img src="./chip.svg" alt="Isometrischer Mikrochip" width="100%">
 </p>
+
+<img src="./divider.svg" alt="" width="100%">
+
+## `> 3d`
+
+<p align="center">
+  <img src="./spin.svg" alt="Rotierendes 3D-Drahtgitter" width="100%">
+</p>
+
+<img src="./divider.svg" alt="" width="100%">
 
 ## `> links`
 

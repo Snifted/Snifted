@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-lernt%20jeden%20Tag-00ff9c?style=flat-square&labelColor=0d1117" alt="status">
-  <img src="https://img.shields.io/badge/Ausbildung-Fachinformatiker%20Systemintegration-00ff9c?style=flat-square&labelColor=0d1117" alt="Ausbildung">
-  <img src="https://img.shields.io/badge/Standort-Deutschland-00ff9c?style=flat-square&labelColor=0d1117" alt="Standort">
+  <img src="./pill-role.svg" alt="Azubi Systemintegration" height="36">
+  <img src="./pill-location.svg" alt="Deutschland" height="36">
+  <img src="./pill-status.svg" alt="lernt jeden Tag" height="36">
 </p>
 
 ## `> about`
@@ -25,7 +25,12 @@ class Snifted:
 ## `> tools`
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,js,nextjs,supabase,arduino,git,github&theme=dark" alt="tools">
+  <img src="https://skillicons.dev/icons?i=python,js,nextjs,supabase,arduino,git,github&theme=dark" alt="tools">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
 </p>
 
 ## `> projects`
@@ -42,16 +47,16 @@ class Snifted:
 | **Trading-Backtests** | Strategien entwickeln und testen | Python · Pine Script |
 | **Smarte Alarmanlage** | Berufsschulprojekt mit Sensorik und Benachrichtigung | Arduino · ESP32 |
 
-## `> 3d contributions`
+## `> core`
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%">
+  <img src="./chip.svg" alt="Isometrischer Mikrochip" width="100%">
 </p>
 
 ## `> links`
 
 <p>
-  <a href="https://www.youtube.com/@Snifted"><img src="https://img.shields.io/badge/YouTube-Snifted-00ff9c?style=for-the-badge&logo=youtube&logoColor=00ff9c&labelColor=0d1117" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@Snifted"><img src="./btn-youtube.svg" alt="YouTube Snifted" height="44"></a>
 </p>
 
 <p align="center"><sub><code>$ echo "Danke fürs Vorbeischauen." &amp;&amp; exit 0</code></sub></p>
